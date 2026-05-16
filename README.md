@@ -1,5 +1,9 @@
+<h1>Data Model</h1>
+<h2>Conceptual Data Model</h2>
+- reference - https://www.quest.com/learn/conceptual.aspx
 <h1>Terminlogies used in Data WareHousing.</h1>
   - Reference - https://seattledataguy.substack.com/p/data-warehousing-essentials-a-precursor
+
 
 <h2>Fact Tables</h2>
 <p>A fact table is the primary table in a dimensional model where the numerical performance measurements of the business are stored.” -Ralph <p>
