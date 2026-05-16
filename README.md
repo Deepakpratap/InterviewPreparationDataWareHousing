@@ -1,4 +1,11 @@
 <h1>Data Model</h1>
+- Conceptual
+
+- Logical
+
+- Physical
+
+-  Query-Driven-Modeling
 <h2>Conceptual Data Model</h2>
 - reference - https://www.quest.com/learn/conceptual.aspx
 <h1>Terminlogies used in Data WareHousing.</h1>
